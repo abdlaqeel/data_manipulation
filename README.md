@@ -38,7 +38,7 @@ I've utilized matplotlib to create visually appealing data visualizations. These
 To explore the project and replicate the results, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/data-manipulation-project.git
+git clone https://github.com/abdlaqeel/data_manipulation.git
 
 
 2. Install the required libraries (NumPy, pandas, and matplotlib):
